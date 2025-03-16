@@ -12,3 +12,4 @@ C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\De
 C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\minimumelement.pdb
 C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\minimumelement.genruntimeconfig.cache
 C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\ref\minimumelement.dll
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\minimumelement.sourcelink.json
