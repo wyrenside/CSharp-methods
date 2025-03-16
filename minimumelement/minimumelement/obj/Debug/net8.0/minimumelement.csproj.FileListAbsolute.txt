@@ -1,0 +1,14 @@
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\minimumelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\minimumelement.AssemblyInfoInputs.cache
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\minimumelement.AssemblyInfo.cs
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\minimumelement.csproj.CoreCompileInputs.cache
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\bin\Debug\net8.0\minimumelement.exe
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\bin\Debug\net8.0\minimumelement.deps.json
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\bin\Debug\net8.0\minimumelement.runtimeconfig.json
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\bin\Debug\net8.0\minimumelement.dll
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\bin\Debug\net8.0\minimumelement.pdb
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\minimumelement.dll
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\refint\minimumelement.dll
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\minimumelement.pdb
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\minimumelement.genruntimeconfig.cache
+C:\Users\nurlan\Desktop\lazimsizlar\methods\minimumelement\minimumelement\obj\Debug\net8.0\ref\minimumelement.dll
